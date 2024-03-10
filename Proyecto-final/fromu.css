@@ -1,0 +1,26 @@
+
+
+body{
+    color: white;
+    background-color: black;
+    background: url(img-2.jpg);
+    background-position: absolute;
+    background-size: cover;
+}
+
+.container{
+    margin-bottom: 2vw;
+    margin-top: 10vw;
+    background: transparent;
+    border: solid  .1vw gainsboro;
+    backdrop-filter: blur(8px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    border-radius: 3vw;
+    padding: 15px 20px;
+    text-align: left;
+}
+
+h1{
+    font-family: "Catalina";
+    font-size: 5em;
+}
